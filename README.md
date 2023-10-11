@@ -37,7 +37,7 @@
 | 송채은                    | Full Stack | [FrontEnd] 마이페이지, 질문 신청 페이지 생성 및 api 연결<br/>[FrontEnd] 친구 추가 및 투표 시에 사용되는 친구 검색 모달창 생성 및 api 연결<br/>[BackEnd] 코인 시세 정보 크롤링 및 관련 API 설계, 구현 |
 | 임병국                    | Full Stack | [FrontEnd] Firebase 푸시 알림 기능 구현 및 API 연결<br/>[FrontEnd] 코인 환전 기능 구현 및 API 연결<br/>[FrontEnd] 코인 환율 적용 및 데이터 시각화<br/>[BackEnd] Firebase Cloud Messaging (FCM) 연동, API 설계 및 구현 |
 | 조윤상                    | Full Stack | [FrontEnd] User 관련 정보 설계 및 구현<br/>[FrontEnd] Zustand를 이용한 UserInfoStore 구현<br/>[BackEnd] User API 설계 및 구현 |
-| 지한얼<br/>BackEnd Leader | Full Stack | [BackEnd] 투표, 질문 관련 API 설계 및 구현<br/>[Infra] NGINX, 도커 설정 |
+| 지한얼<br/>BackEnd Leader | Full Stack | [BackEnd] 투표, 질문 관련 API 설계 및 구현<br/> [BackEnd] 전체 코드 리펙토링 및 디버그<br/> [Infra] NGINX 및 도커 설정  |
 | 황상미                    | Full Stack | [FrontEnd] Yarn, React 활용 PWA 구조 설계 및 전체 페이지 HTML, CSS 구조화<br/>[FrontEnd] 투표 및 메시지함 페이지 생성 및 api 연결<br/>[BackEnd] 뉴스 기사 크롤링  및 뉴스 관련 API 설계, 구현 |
                                                       |
 
